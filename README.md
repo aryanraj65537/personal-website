@@ -1,1 +1,1 @@
-# aryanraj.xyz
+# personal-website
